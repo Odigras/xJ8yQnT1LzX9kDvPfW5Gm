@@ -1,0 +1,20 @@
+signin page{
+    -huge overflow issue!!!
+    -Clicking auto complete ruins background for some reason
+    -Make terms & conditions
+    -remove .bottom link underline
+    -make font reference local
+    -make submit button bolder
+    -
+}
+
+index page{
+    -Remove target blank from nav links
+    -
+}
+
+general{
+    -Rename page titles
+    -Delete files: clone.html, gridTest.html, cssClone.css,
+    -
+}
